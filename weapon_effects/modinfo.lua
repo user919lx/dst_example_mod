@@ -8,8 +8,8 @@
   * Date: 2022/10/07
   * 
 --]]
-name = "水上行走 Water Walk"
-description = "教学Mod\n\nTutorial Example Mod\n\n 按R激活/解除 水上行走效果"
+name = "武器特效(例)"
+description = "添加武器特效教学"
 author = "LongFei"
 version = "1.0.0"
 dst_compatible = true
